@@ -12,7 +12,7 @@ $$
 | --- | --- | --- |
 | 본 연구 | ECGNet(CNN) | 79.058% |
 | 본 연구 | ECGNet(CNN + RNN) | 87.75% |
-| 본 연구 | ECGNet(CNN + RNN + Transformer) | 91.38% |
+| 본 연구 | ECGNet(CNN + RNN + Transformer) | 91.46% |
 
 
 
